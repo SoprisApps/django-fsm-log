@@ -5,6 +5,7 @@ local_settings.py
 .tox/
 .coverage
 
+.idea/
 build/
 dist/
 *.egg-info
